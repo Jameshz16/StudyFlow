@@ -26,7 +26,7 @@ Este proyecto nace de la necesidad de **optimizar el tiempo de estudio** en un h
 
 * **Framework:** Flutter (desarrollo multiplataforma en Dart)
 * **Lenguaje de Programación:** Dart
-* **(Próximamente, para integración si aplica):** Kotlin, Java (Influencia del SENA)
+
 
 ---
 
