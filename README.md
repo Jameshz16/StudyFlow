@@ -18,7 +18,7 @@ StudyFlow está en sus primeras etapas, pero ya cuenta con funcionalidades clave
 
 ## 🎯 ¿Por Qué StudyFlow? (El Propósito del Parcero Dev)
 
-Este proyecto nace de la necesidad de **optimizar el tiempo de estudio** en un horario apretado (trabajo, SENA, responsabilidades personales y hasta las mascotas 😉). Más allá de ser una herramienta, es un **proyecto real de aprendizaje y consolidación de conocimientos en Flutter**. Cada línea de código aquí es una lección aprendida, un reto superado y un paso más hacia la maestría en el desarrollo de apps.
+Este proyecto nace de la necesidad de **optimizar el tiempo de estudio** en un horario apretado. Más allá de ser una herramienta, es un **proyecto real de aprendizaje y consolidación de conocimientos en Flutter**. Cada línea de código aquí es una lección aprendida, un reto superado y un paso más hacia la maestría en el desarrollo de apps.
 
 ---
 
@@ -36,7 +36,7 @@ Sigue estos pasos para tener StudyFlow funcionando en tu máquina local:
 
 1.  **Clona este Repositorio:**
     ```bash
-    git clone 
+    git clone https://github.com/Jameshz16/StudyFlow.git
     cd studyflow
     ```
 
