@@ -1,6 +1,6 @@
 # 📚 StudyFlow: Tu Aliado para Conquistar el Conocimiento (y Flutter) 🚀
 
-¡Bienvenido al proyecto StudyFlow! Esta es una aplicación móvil (y web, ¡gracias a Flutter!) diseñada para ayudarte a organizar, rastrear y optimizar tus sesiones de estudio diario. Creada con Flutter, esta app no solo te servirá como una herramienta personal invaluable, sino también como un campo de batalla para poner en práctica y dominar tus habilidades en el desarrollo de aplicaciones móviles con Flutter, Kotlin y Java (SENA).
+¡Bienvenido al proyecto StudyFlow! Esta es una aplicación móvil (y web, ¡gracias a Flutter!) diseñada para ayudarte a organizar, rastrear y optimizar tus sesiones de estudio diario. Creada con Flutter, esta app no solo te servirá como una herramienta personal invaluable, sino también como un campo de batalla para poner en práctica y dominar tus habilidades en el desarrollo de aplicaciones móviles con Flutter
 
 ---
 
